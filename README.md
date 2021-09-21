@@ -1,4 +1,4 @@
 # Curso EBAC: Cientista da Dados
-Meu primeiro projeto ebac Parte1
+Programas e atividades desenvolvidas durante o curso
 
 
